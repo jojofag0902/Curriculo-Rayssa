@@ -1,0 +1,59 @@
+#foto{
+    width: 135px;
+    height: 140px;
+    border-radius: 50%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display: flex;
+}
+.cabecalho{
+    border-color: black;
+    border-width: 6px;
+    border-style:groove;
+    width: 60%;
+    display: block;
+    background-image: url(fundo.jpg);
+}
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    line-height: 180%;
+    letter-spacing: 2px;
+}
+
+#nome{
+    font-size: 225%;
+}
+.sobre{
+    border-color: black;
+    border-width: 6px;
+    border-style:groove;
+    width: 60%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    line-height: 180%;
+    letter-spacing: 2px;
+}
+.cursos{
+    border-color: black;
+    border-width: 6px;
+    border-style:groove;
+    width: 60%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    line-height: 180%;
+    letter-spacing: 2px;
+}
+.xp{
+    border-color: black;
+    border-width: 6px;
+    border-style:groove;
+    width: 60%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    line-height: 180%;
+    letter-spacing: 2px;
+}
